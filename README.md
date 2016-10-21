@@ -1,0 +1,2 @@
+# GitExample
+practicing w GIT
